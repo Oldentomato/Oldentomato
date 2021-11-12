@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&text=oldentomato&height=300&fontSize=70&color=auto&section=header)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List)
 <!--
 **Oldentomato/Oldentomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
