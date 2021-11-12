@@ -3,7 +3,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![NODEJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=NodeJS&logoColor=black)](github.com/Oldentomato/TODO-List)
+[![NODEJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=NodeJS&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Oldentomato/TODO-List)
