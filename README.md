@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning TypeScript & NestJS
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 
-[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
