@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning TypeScript & NestJS
 - 💬 Look around my project <polaroid.kro.kr>
 
-[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/Oldentomato/github-readme-stats)
+[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
