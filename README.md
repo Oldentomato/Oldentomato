@@ -17,7 +17,11 @@
 - 🔭 I’m currently working on PortFolioSite with MernStack
 - 🌱 I’m currently learning Python and TensorFlow
 - 💬 Look around my project [here](http://polaroid.kro.kr)
-- Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)
+- Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=****&layout=compact)](https://github.com/****/github-readme-stats)
+
+출처: https://clotty-cloud.tistory.com/111 [몽글구름의 일상기록]
 
 [![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
