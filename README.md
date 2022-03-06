@@ -21,7 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldentomato&layout=compact)](https://github.com/Oldentomato/github-readme-stats)
 
-출처: https://clotty-cloud.tistory.com/111 [몽글구름의 일상기록]
 
 [![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
