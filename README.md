@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently working on Application Server with Firebase and Android Studio
-- 🌱 I’m currently learning Python and TensorFlow
+- 🌱 I’m currently learning TypeScript and Pytorch
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
 
