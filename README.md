@@ -15,7 +15,7 @@
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=black)](github.com/Oldentomato/TODO-List)
 
 
-- 🔭 I’m currently working on PortFolioSite with MernStack
+- 🔭 I’m currently working on Application Server with Firebase and Android Studio
 - 🌱 I’m currently learning Python and TensorFlow
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
