@@ -19,6 +19,7 @@
 - 🌱 I’m currently learning TypeScript and Pytorch
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
+- Generate gitigonre file site [gitignore](https://www.toptal.com/developers/gitignore)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldentomato&layout=compact)](https://github.com/Oldentomato/github-readme-stats)
 
