@@ -13,6 +13,7 @@
 [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![CSHARP](https://img.shields.io/badge/C%23-239128?style=flat-square&logo=CSharp&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=black)](github.com/Oldentomato/TODO-List)
+[![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=red)](github.com/Oldentomato/TODO-List)
 
 
 - 🔭 I’m currently working on Application Server with Firebase and Android Studio
