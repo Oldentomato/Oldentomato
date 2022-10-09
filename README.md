@@ -10,7 +10,6 @@
 [![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![CSHARP](https://img.shields.io/badge/C%23-239128?style=flat-square&logo=CSharp&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
