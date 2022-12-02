@@ -3,6 +3,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=OLDENTOMATO&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
 ## 🛠️ My Tech 🛠️  
+### MLOps
+[![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![KUBERNETES](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![MLFLOW](https://img.shields.io/badge/Mlflow-0194E2?style=flat-square&logo=Mlflow&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### FrontEnd
 [![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List). 
@@ -22,14 +31,6 @@
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List). 
 ### Cloud Compute
 [![AMAZONEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
-### MLOps
-[![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![KUBERNETES](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
 
 - 🔭 I’m currently working on AI Project with Tensorflow. 
 - 🌱 I’m currently learning MLOps
