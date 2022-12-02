@@ -18,6 +18,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List). 
 ### Tools
 [![NODEJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/Oldentomato/TODO-List)
+[![ANACONDA](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List). 
 ### Cloud Compute
 [![AMAZONEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
