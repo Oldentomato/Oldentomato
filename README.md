@@ -1,8 +1,8 @@
-### Hi there 👋   
+### Hi there    
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=OLDENTOMATO&height=300&fontSize=70&color=gradient&section=header&animation=fadeIn&fontColor=fffafa)
-## 🛠️ My Tech 🛠️  
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&fontColor=fffafa&text=OLDENTOMATO&fontAlignY=50&height=300&fontSize=70&color=gradient)
+## My Tech 
 ### MLOps
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
