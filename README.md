@@ -14,21 +14,22 @@
 [![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### FrontEnd
 [![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List). 
+[![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)  
 ### BackEnd
 [![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)](github.com/Oldentomato/TODO-List). 
+[![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### Language
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![CSHARP](https://img.shields.io/badge/C%23-239128?style=flat-square&logo=CSharp&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List). 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List)
 ### Tools
 [![NODEJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![ANACONDA](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List). 
+[![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![VERCEL](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### Cloud Compute
 [![AMAZONEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
 
