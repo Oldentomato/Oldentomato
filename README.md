@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on AI Project with Tensorflow. 
 - 🌱 I’m currently learning MLOps
-- 💬 Look around my project [here](http://polaroid.kro.kr)
+- 💬 Look around my portfolio [here](https://wsportfolio.vercel.app/)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
 - Generate gitigonre file site [gitignore](https://www.toptal.com/developers/gitignore)
 - My Docker Hub [Docker Hub](https://hub.docker.com/u/oldentomato)
