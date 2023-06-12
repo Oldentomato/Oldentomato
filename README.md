@@ -10,8 +10,8 @@
 [![KUBERNETES](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![MLFLOW](https://img.shields.io/badge/Mlflow-0194E2?style=flat-square&logo=Mlflow&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![SPARK](https://img.shields.io/badge/ApacheSpark-FA6423?style=flat-square&logo=ApacheSpark&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### FrontEnd
 [![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)  
@@ -20,7 +20,7 @@
 [![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![SPARK](https://img.shields.io/badge/ApacheSpark-FA6423?style=flat-square&logo=ApacheSpark&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### Language
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![CSHARP](https://img.shields.io/badge/C%23-239128?style=flat-square&logo=CSharp&logoColor=black)](github.com/Oldentomato/TODO-List)
@@ -32,6 +32,7 @@
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![VERCEL](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### Cloud Compute
+[![GCP](https://img.shields.io/badge/GoogleCloudPlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![AMAZONEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
 
 - 🔭 I’m currently working on AI Project with Tensorflow. 
