@@ -2,7 +2,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&fontColor=fffafa&text=OLDENTOMATO&fontAlignY=50&height=300&fontSize=70&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F737&center=true&vCenter=true&width=600&lines=I+am+studying+everyday+to+become+an+ML+engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A83F7&center=true&vCenter=true&width=860&lines=I+am+studying+everyday+to+become+an+ML+engineer.)](https://git.io/typing-svg)
 ## My Tech 
 ### MLOps
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
