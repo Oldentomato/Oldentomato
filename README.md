@@ -36,7 +36,7 @@
 [![GCP](https://img.shields.io/badge/GoogleCloudPlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![AMAZONEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
 
-- 🔭 I’m currently working on ETRI
+- 🔭 I’m currently working on ETRI to research trainee
 - 🌱 I’m currently learning MLOps
 - 💬 Look around my portfolio [here](https://wsportfolio.vercel.app/)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
