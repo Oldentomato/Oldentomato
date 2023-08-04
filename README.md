@@ -8,7 +8,7 @@
 [![TENSORFLOW](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![KUBERNETES](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![DOCKERCOMPOSE](https://img.shields.io/badge/DockerCompose-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
