@@ -1,7 +1,6 @@
 ### Hi there    
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&fontColor=fffafa&text=OLDENTOMATO&fontAlignY=50&height=2=200&fontSize=70&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&animation=fadeIn&text=OLDENTOMATO%20&fontAlignY=40&height=200&fontSize=70&color=gradient&desc=I'm&descAlignY=15&descAlign=20)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0A83F7&center=true&vCenter=true&width=860&lines=I+am+studying+everyday+to+become+an+ML+engineer.)](https://git.io/typing-svg)
 ## MY PORTFOLIO AND BLOG => [wsportfolio](https://wsportfolio.vercel.app/)
 ## My Tech 
