@@ -11,8 +11,8 @@
 [![DOCKERCOMPOSE](https://img.shields.io/badge/DockerCompose-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![FEAST](https://img.shields.io/badge/Feast-EE4C2C?style=flat-square&logo=Feast&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![SPARK](https://img.shields.io/badge/ApacheSpark-FA6423?style=flat-square&logo=ApacheSpark&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![KAFKA](https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### FrontEnd
 [![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)  
