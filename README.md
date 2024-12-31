@@ -13,6 +13,7 @@
 [![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![OPENAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![KAFKA](https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![TRAEFIK](https://img.shields.io/badge/TraefikProxy-24A1C1?style=flat-square&logo=TraefikProxy&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### FrontEnd
 [![REACTNATIVE](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Oldentomato/TODO-List)
