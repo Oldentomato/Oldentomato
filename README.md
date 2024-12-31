@@ -28,7 +28,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Oldentomato/TODO-List)
 ### Tools
 [![NODEJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/Oldentomato/TODO-List)
-[![ANACONDA](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black)](github.com/Oldentomato/TODO-List)
+[![WSL](https://img.shields.io/badge/WSL2-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/Oldentomato/TODO-List)
 [![UNITY](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PORTAINER](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white)](github.com/Oldentomato/TODO-List)
 ### Cloud Compute
