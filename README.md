@@ -6,7 +6,6 @@
 ## 🚀 Tech Stack
 
 ### 🔹 MLOps
-[![TensorFlow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![Docker Compose](https://img.shields.io/badge/DockerCompose-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/Oldentomato/TODO-List)
@@ -53,7 +52,7 @@
 ### ☁️ Cloud & Infrastructure
 [![Google Cloud](https://img.shields.io/badge/GoogleCloudPlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](github.com/Oldentomato/TODO-List)
 [![Amazon EC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)](github.com/Oldentomato/TODO-List)
-[![AWS EKS](https://img.shields.io/badge/Amazon-EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)](github.com/Oldentomato/TODO-List)
+[![AWS EKS](https://img.shields.io/badge/AmazonEKS-FF9900?style=flat&logo=amazoneks&logoColor=white)](github.com/Oldentomato/TODO-List)
 
 - 🔭 I’m currently working at UINetworks
 - 🌱 I’m currently learning MLOps
